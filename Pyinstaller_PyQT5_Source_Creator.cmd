@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole -i "PyQT5_Source_Creator_Icon.ico" PyQT5_Source_Creator.py

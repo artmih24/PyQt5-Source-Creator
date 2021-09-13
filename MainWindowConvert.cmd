@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x PyQT5_Source_Creator_window.ui -o PyQT5_Source_Creator_window.py
