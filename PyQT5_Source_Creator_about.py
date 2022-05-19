@@ -1,4 +1,4 @@
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets, QtCore
 from PyQT5_Source_Creator_about_window import Ui_AboutWindow
 import sys, webbrowser
 import PyQT5_Source_creator_Icon as icon

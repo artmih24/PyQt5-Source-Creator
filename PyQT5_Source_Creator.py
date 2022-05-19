@@ -120,8 +120,9 @@ if __name__ == '__main__':
         self.about_window.close()
 
 
-app = QtWidgets.QApplication([])
-application = mywindow()
-application.show()
+if __name__ == '__main__':
+    app = QtWidgets.QApplication([])
+    application = mywindow()
+    application.show()
 
-sys.exit(app.exec())
+    sys.exit(app.exec())
